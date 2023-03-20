@@ -1,5 +1,5 @@
 import { API } from "../api";
-import { houseMock } from "../mock";
+//import { houseMock } from "../mock";
 import { BASE_URL } from "../utils";
 
 export async function fetchHousesByName(houseName = "") {
