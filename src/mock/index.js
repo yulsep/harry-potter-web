@@ -1,4 +1,4 @@
-import gryffindorMock from "./gryffindor.json";
+/* import gryffindorMock from "./gryffindorCharacters.json";
 
 const mock = {
   gryffindor: gryffindorMock,
@@ -7,4 +7,10 @@ const mock = {
 export function houseMock(house) {
   const houseMockData = mock[house];
   return Promise.resolve(houseMockData || {});
-}
+} */
+
+import StudentsCharacters from "./studentsCharacters";
+import StaffCharacters from "./staffCharacters";
+import Spells from "./spells";
+
+export { StudentsCharacters, StaffCharacters, Spells };

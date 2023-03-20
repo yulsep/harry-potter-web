@@ -1,22 +1,22 @@
 const config = [
   {
     title: "Houses",
-    logo: "https://1000logos.net/wp-content/uploads/2021/04/Hogwarts-Logo.png",
+    logo: "https://www.diaryofanaspiringloser.com/wp-content/uploads/2019/12/1_Mf5wGaUMeILB7rSIrAm6Qg.jpg",
     routeName: "HousesPage",
   },
   {
     title: "Staff",
-    logo: "https://images.squarespace-cdn.com/content/v1/5c71c7d8aadd342945360ba1/1590918186930-3T9BRES1HPGDJQ4XVLOP/Hogwarts+Library.png",
+    logo: "https://images.squarespace-cdn.com/content/v1/5fa5ec79661ee904d2973ca0/1607100727802-UKREWNQP8KO37T0K5LVF/hogwarts+professors+harry+potter.jpg",
     routeName: "StaffPage",
   },
   {
     title: "Students",
-    logo: "https://www.startingharrypotter.com/images/hero-harry.png?v=c52vgop63gVr0KyrKsgOHnByvps6HG7CtopmQjHV8JM",
+    logo: "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/11/harry-potter-and-the-sorcerers-stone-cast-02.jpg",
     routeName: "StudentsPage",
   },
   {
     title: "Spells",
-    logo: "https://static.wikia.nocookie.net/harrypotter/images/0/01/Wizarding_World_Logo.png",
+    logo: "https://nypost.com/wp-content/uploads/sites/2/2022/04/harry-potter-19.jpg",
     routeName: "SpellsPage",
   },
 ];

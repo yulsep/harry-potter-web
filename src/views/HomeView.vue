@@ -18,8 +18,7 @@ import { HomeSectionsConfig } from "../utils";
 
 <style lang="scss" scoped>
 .wrapper--main {
-  background-color: var(--bg-main);
-  display: flex;
+  display: grid;
   flex-direction: column;
   justify-content: center;
   align-items: center;
