@@ -1,3 +1,4 @@
-import { fetchHousesByName } from "./houses.service";
+/* import { fetchHousesByName } from "./houses.service";
 
 export { fetchHousesByName };
+ */
