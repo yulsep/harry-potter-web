@@ -15,10 +15,13 @@ onMounted(async () => {
 <template>
   <main class="wrapper--main">
     <h2>{{ String($route.params.house).toUpperCase() }}</h2>
+    <img :src="house.image" alt="house image" />
     <section>
-      <p>{{ house?.logo }}</p>
-      <p>{{ house?.founder }}</p>
-      <p>{{ house?.color }}</p>
+      <p>{{ house?.description }}</p>
+      <p>{{ house?.animal }}</p>
+      <p>{{ house?.ghost }}</p>
     </section>
   </main>
 </template>
+
+

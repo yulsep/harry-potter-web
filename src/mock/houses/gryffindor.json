@@ -1,0 +1,9 @@
+{
+    "image": "https://static.wikia.nocookie.net/esharrypotter/images/a/a3/Gryffindor_Pottermore.png/",
+    "name": "Gryffindor",
+    "founder": "Godric Gryffindor",
+    "description" : "Gryffindor es una de las cuatro casas del Colegio Hogwarts de Magia y Hechicería, fundada por Godric Gryffindor. Su animal emblemático es el león y sus colores son el rojo escarlata y el dorado. Minerva McGonagall es la más reciente jefa de la casa. Sir Nicholas de Mimsy-Porpington también conocido como 'Nick Casi Decapitado' es el fantasma de la casa. Las principales características de los Gryffindor son el coraje y la caballerosidad.",
+    "animal": "Leon",
+    "ghost": "Sir Nicholas de Mimsy-Porpington"
+
+}
